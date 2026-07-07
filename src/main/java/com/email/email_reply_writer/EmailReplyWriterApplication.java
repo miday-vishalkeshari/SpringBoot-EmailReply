@@ -10,4 +10,6 @@ public class EmailReplyWriterApplication {
 		SpringApplication.run(EmailReplyWriterApplication.class, args);
 	}
 
+	public static class EmailGeneratorController {
+	}
 }
