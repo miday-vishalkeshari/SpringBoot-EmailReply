@@ -275,8 +275,7 @@ git push origin feature-name
 
 **Vishal Keshari**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/kesharivishal/
 
 ---
 
