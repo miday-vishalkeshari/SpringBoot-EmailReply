@@ -229,20 +229,6 @@ curl -X POST http://localhost:8080/api/email/generate \
 
 ---
 
-## 📸 Screenshots
-
-You can add screenshots here.
-
-Example:
-
-```
-screenshots/
-    home.png
-    postman.png
-```
-
----
-
 ## 🔮 Future Improvements
 
 - Gmail Integration
